@@ -1,0 +1,8 @@
+prefix=/home/mike/catkin_ws/install
+
+Name: husky_base
+Description: Description of husky_base
+Version: 0.0.5
+Cflags: 
+Libs: -L/home/mike/catkin_ws/install/lib 
+Requires: 

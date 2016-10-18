@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "husky_base")
+set(husky_base_MAINTAINER "Mike Purvis <mpurvis@clearpathrobotics.com>")
+set(husky_base_DEPRECATED "")
+set(husky_base_VERSION "0.0.5")
+set(husky_base_BUILD_DEPENDS "roslaunch")
+set(husky_base_RUN_DEPENDS "diagnostic_msgs" "clearpath_base" "geometry_msgs" "sensor_msgs" "nav_msgs" "rospy" "python_orocos_kdl" "diagnostic_aggregator")
+set(husky_base_BUILDTOOL_DEPENDS "catkin")

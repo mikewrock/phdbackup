@@ -1,0 +1,2 @@
+husky_base:husky_description:point_cloud_converter-hydro-devel:rgbdslam_v2-hydro:schunk_libm5api:wrock
+-DCATKIN_DEVEL_PREFIX=/home/mike/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/mike/catkin_ws/install

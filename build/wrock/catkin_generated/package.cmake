@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "wrock")
+set(wrock_MAINTAINER "mike <mike@todo.todo>")
+set(wrock_DEPRECATED "")
+set(wrock_VERSION "0.0.0")
+set(wrock_BUILD_DEPENDS "rospy" "sensor_msgs" "urdf" "diagnostic_updater" "schunk_libm5api" "libntcan" "libpcan" "cob_srvs" "brics_actuator" "diagnostic_msgs" "control_msgs" "rostest" "tf" "message_generation" "libpcl-all-dev" "roscpp")
+set(wrock_RUN_DEPENDS "roscpp" "libpcl-all" "message_runtime" "tf" "sensor_msgs" "urdf" "diagnostic_updater" "schunk_libm5api" "libntcan" "libpcan" "cob_srvs" "brics_actuator" "diagnostic_msgs" "control_msgs")
+set(wrock_BUILDTOOL_DEPENDS "catkin")
